@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 venv/
 env/
-.env
 
 # Models (Keep them if they are small, but here they are large. 
 # We should probably only keep the ones we actually use if possible, 
@@ -33,7 +32,4 @@ docs/logs/
 # Scratch and local cache
 scratch/
 .npm-cache/
-
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
+config.bat
